@@ -23,8 +23,8 @@
 /* Main Spheres heading */
 .landing-text h1 {
 	font-size: 600%;
-	text-shadow: 2px 2px 4px #FFF;       
-	color: #000;
+	text-shadow: 2px 2px 4px #000;       
+	color: #FFF;
 	margin-top: 65px;
 }
 
@@ -32,8 +32,8 @@
 .landing-text h3 {
 	font-size: 300%;
 	font-weight: 500;
-	text-shadow: 2px 2px 4px #FFF;
-	color: #000;
+	text-shadow: 2px 2px 4px #000;
+	color: #FFF;
 }
 
 /* Main Name Animation */
