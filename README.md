@@ -1,2 +1,2 @@
-# JonBichel
-Electrical Engineer Portfolio
+# Jon Bichel
+An electrical engineer portfolio
